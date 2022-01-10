@@ -26,15 +26,6 @@ let DATA = {
   * C - We create a README.md file with the generated output
   */
 
-async function setInstagramPosts() {
-  const instagramImages = await puppeteerService.getLatestInstagramPostsFromAccount('visita_madrid', 3);
-  DATA.img1 = instagramImages[0];
-  DATA.img2 = instagramImages[1];
-  DATA.img3 = instagramImages[2];
-}
-
-/**
-  * TODO
 async function setWeatherInformation() {
   await fetch(
     `https://api.openweathermap.org/data/2.5/weather?q=madrid&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=metric`
@@ -56,7 +47,14 @@ async function setWeatherInformation() {
       });
     });
 }
-*/
+
+async function setInstagramPosts() {
+  const instagramImages = await puppeteerService.getLatestInstagramPostsFromAccount('visita_madrid', 3);
+  DATA.img1 = instagramImages[0];
+  DATA.img2 = instagramImages[1];
+  DATA.img3 = instagramImages[2];
+}
+
 async function generateReadMe() {
   await fs.readFile(MUSTACHE_MAIN_DIR, (err, data) => {
     if (err) throw err;
@@ -66,9 +64,7 @@ async function generateReadMe() {
 }
 
 async function action() {
-/**
-  * TODO
-  await setWeatherInformation(); */
+  await setWeatherInformation();
   await setInstagramPosts();
   await generateReadMe();
   await puppeteerService.close();

@@ -1,6 +1,6 @@
 <h1>Welcome to my GitHub page! 👋</h1>
 
-<p>I'm Silvia, PhD student at the <b>Autonomous University of Madrid, in Spain</b> <img src="https://img.icons8.com/color/48/000000/spain-circular.png" width="13"/>. I'm currently working on my doctoral thesis on microbial community assembly at <a href="https://aguirredecarcerlab96.webnode.es/home2/"><b>Aguirre de Cárcer's lab<b></a></p>
+<p>I'm Silvia, a PhD student at the <b>Autonomous University of Madrid, Spain</b> <img src="https://img.icons8.com/color/48/000000/spain-circular.png" width="13"/>. I'm currently working on my doctoral thesis on microbial community assembly at <a href="https://aguirredecarcerlab96.webnode.es/home2/">Aguirre de Cárcer's lab</a></p>
 
 <h3>🔭 My work includes ...</h3>
 
@@ -39,8 +39,8 @@ TODO
 
 <h3> Welcome to <img src="https://img.icons8.com/color/48/000000/spain-circular.png" width="13"/>Madrid!</h3>
 <p><img width="200" src="https:&#x2F;&#x2F;cdn2.dumpor.com&#x2F;view?q&#x3D;%3D%3DwM4YmZidTPkl2cfNmbfZCMzEjQzUUM20TZvZydOZlYfVzY4AHVxImYshXRKdXbyFHRtcTZNVnViBleHF2Vf5Ua4p3d5gWafRVQfBDM9g2bmQTL30jYjNmJBFUQBJ0ZNBDZmJUQ90GZlZiWxhDR58FWBRjSyU2NndkayNGb9MGav91Yu9lJ4ATM9QXYj91Yu9lJt92Yu0WYydWY0Nnbp5GZj5SMtMDblhWL05WZ052bjNXP0h2Xj52X%2FcGcq5ibflTN2AzMxADO5UjN4MTM3UDO0IzXwQDOyEjN0UjMwUDN1kDMx8lM4gDO0UTM3IzLwgDMxgHM4ATMw9SNxU2LyZ2L1ETL1gDOy4SM1Q3L29SbvNmLtFmcnFGdz5WauR2YuETLzwWZo1CduVGdu92Yz9yL6MHc0RHa" /> <img width="200" src="https:&#x2F;&#x2F;cdn1.dumpor.com&#x2F;view?q&#x3D;%3DMDOmZmY30DZpN3Xj52XmYEMBF0MFFjN9U2bmcWZnN3aBhkVMx2NSNHZ6hGezBzX5NzUIdlStgVZ4M0ZqZTTQpGOKJmVhZWOUF0XwATPo9mJ00yN9I2YjZSQBFUQCdWTwQmZCFUPtRWZmQUU5UUUfhVQzh3cZhWUHFVeT9VPjh2bfNmbfZiMwETP0F2YfNmbfZSbvNmLtFmcnFGdz5WauR2YuETLzwWZo1CduVGdu92Yz1Ddo91Yu91PnBnau42X4YjN0ADO3cDO2kTM3UTNyczNfJDOykDO0AjM3QTN1UTMz8FN3MTO0UTM3IzLwgDMxgHM4ATMw9SNxU2LyZ2L1ETL1gDOy4SM1Q3L29SbvNmLtFmcnFGdz5WauR2YuETLzwWZo1CduVGdu92Yz9yL6MHc0RHa" /> <img width="200" src="https:&#x2F;&#x2F;cdn3.dumpor.com&#x2F;view?q&#x3D;zgjZmJ2N9QWaz91Yu9lJxATOBJTRxYTPl9mJ3dXNSRWW3clS3IXb24kdylGaSB3NqJzXshkNrNDML9VdK9UORd3NSRzanhDVB9FMw0DavZCNtcTPiN2YmEUQBFkQn1EMkZmQB1TbkVmJR9UUqpWOYFUWtZ1bDFXMEpFSR1zYo92Xj52XmkDMx0DdhN2Xj52Xm02bj5SbhJ3ZhR3culmbkNmLx0yMsVGatQnblRnbvN2c9QHafNmbf9zZwpmLu9VN1EDO0YTO2ATMwAjNwcDO2ADNfNzM2QzN4EjNwYDM0cjM28FNxUjNzMTM3IzLwgDMxgHM4ATMw9SNxU2LyZ2L1ETL1gDOy4SM1Q3L29SbvNmLtFmcnFGdz5WauR2YuETLzwWZo1CduVGdu92Yz9yL6MHc0RHa" /></p>
-<p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/visita_madrid/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @visita_madrid</a>!<br/>Currently, the weather is: <b> °C, <i></i></b></br>Today, the sun rises at <b></b> and sets at <b></b>.</p>
+<p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/visita_madrid/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @visita_madrid</a>!<br/>Currently, the weather is: <b> 15°C, <i>clear sky</i></b></br>Today, the sun rises at <b>08:37</b> and sets at <b>18:06</b>.</p>
 
 
 ------------
-<p align="center">This <i>README</i> file self-updates <b>every 6 hours</b></br>Last refresh: Monday, 10 January, 13:53 CET<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Here's how</a></p>
+<p align="center">This <i>README</i> file self-updates <b>every 6 hours</b></br>Last refresh: Monday, 10 January, 14:32 CET<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Here's how</a></p>

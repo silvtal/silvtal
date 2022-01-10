@@ -21,9 +21,9 @@
   },
   "homepage": "https://github.com/silvtal/silvtal#readme",
   "dependencies": {
-    "dotenv": "^8.2.0",
+    "dotenv": "^8.6.0",
     "mustache": "^4.2.0",
-    "node-fetch": "^2.6.1",
-    "puppeteer": "^5.1.0"
+    "node-fetch": "^2.6.6",
+    "puppeteer": "^5.5.0"
   }
 }
