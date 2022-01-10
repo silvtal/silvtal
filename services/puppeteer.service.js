@@ -73,6 +73,7 @@ class PuppeteerService {
       process.exit();
     }
   }
+}
 
 const puppeteerService = new PuppeteerService();
 
