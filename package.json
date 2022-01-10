@@ -1,0 +1,29 @@
+{
+  "name": "silvtal",
+  "version": "1.0.0",
+  "description": "github self-updating profile for silvtal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silvtal/silvtal.git"
+  },
+  "keywords": [
+    "readme.md",
+    "github"
+  ],
+  "author": "Silvia Talavera Marcos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/silvtal/silvtal/issues"
+  },
+  "homepage": "https://github.com/silvtal/silvtal#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "mustache": "^4.2.0",
+    "node-fetch": "^2.6.1",
+    "puppeteer": "^5.1.0"
+  }
+}
