@@ -44,4 +44,4 @@ TODO
 
 
 ------------
-<p align="center">This <i>README</i> file self-updates <b>every 3 hours</b></br>Last refresh: Wednesday, 8 June, 05:52 CEST<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Here's how it works</a></p>
+<p align="center">This <i>README</i> file self-updates <b>every 3 hours</b></br>Last refresh: Wednesday, 8 June, 08:17 CEST<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Here's how it works</a></p>
