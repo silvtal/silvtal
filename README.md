@@ -40,8 +40,8 @@ TODO
 
 <h3> Welcome to <img src="https://img.icons8.com/color/48/000000/spain-circular.png" width="13"/>Madrid!</h3>
 <p><img width="200" src="" /> <img width="200" src="" /> <img width="200" src="" /></p>
-<p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/visita_madrid/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @visita_madrid</a>!<br/>Currently, the weather is: <b> 27°C, <i>clear sky</i></b></br>Today, the sun rises at <b>07:10</b> and sets at <b>21:32</b>.</p>
+<p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/visita_madrid/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @visita_madrid</a>!<br/>Currently, the weather is: <b> 33°C, <i>clear sky</i></b></br>Today, the sun rises at <b>07:10</b> and sets at <b>21:32</b>.</p>
 
 
 ------------
-<p align="center">This <i>README</i> file self-updates <b>every 3 hours</b></br>Last refresh: Saturday, 30 July, 11:13 CEST<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Here's how it works</a></p>
+<p align="center">This <i>README</i> file self-updates <b>every 3 hours</b></br>Last refresh: Saturday, 30 July, 14:24 CEST<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Here's how it works</a></p>
