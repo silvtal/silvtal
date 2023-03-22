@@ -56,10 +56,11 @@ class PuppeteerService {
 // !!      const page = `https://dumpor.com/v/${acc}`;
 // !!      const page = `https://www.picuki.com/profile/${acc}`;
 // !!      await this.goToPage(page);
-      await page.goto("https://www.picuki.com/profile/${acc}/", {
-        timeout: 80000,
+      const page = await context.newPage(); // !!
+      await page.goto("https://www.picuki.com/profile/${acc}/", { // !!
+        timeout: 80000, // !!
         }); // !!
-      let previousHeight;
+ // !!      let previousHeight;
 
       console.log('acc', acc);
       console.log('page', page);
@@ -84,6 +85,7 @@ class PuppeteerService {
 // !!      const nodes = await this.page.evaluate(() => {
 //        const images = document.querySelectorAll(`.content__img`);
 // !!        const images = document.querySelectorAll(`post-image`);
+     let images;
       const data = await page.evaluate(() => {
         const images: NodeListOf<HTMLImageElement> =
           document.querySelectorAll(".post-image");
