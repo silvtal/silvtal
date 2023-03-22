@@ -57,21 +57,24 @@ class PuppeteerService {
       const page = `https://www.picuki.com/profile/${acc}`;
       await this.goToPage(page);
       let previousHeight;
+
       console.log('acc', acc);
       console.log('page', page);
+
       previousHeight = await this.page.evaluate(`document.body.scrollHeight`);
       await this.page.evaluate(`window.scrollTo(0, document.body.scrollHeight)`);
       // 🔽 Doesn't seem to be needed
       // await this.page.waitForFunction(`document.body.scrollHeight > ${previousHeight}`);
-      await this.page.waitFor(1000);
+      // await this.page.waitFor(1000);
 
+      await this.page.waitForSelector('.post-image');
       const nodes = await this.page.evaluate(() => {
 //        const images = document.querySelectorAll(`.content__img`);
         const images = document.querySelectorAll(`.post-image`);
         return [].map.call(images, img => img.src);
       });
 
-      console.log('images', images);
+      console.log('nodes', nodes);
 
       return nodes.slice(0, 3);
     } catch (error) {
