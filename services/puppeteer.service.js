@@ -67,10 +67,15 @@ class PuppeteerService {
       // await this.page.waitForFunction(`document.body.scrollHeight > ${previousHeight}`);
       // await this.page.waitFor(1000);
 
-      await this.page.waitForSelector('.post-image');
+      await this.page.waitForSelector('post-image');
+      // In this version of the code, this.page.waitForSelector() is used
+      // to wait for the .post-image selector to appear on the page before
+      // executing this.page.evaluate(). Once the selector is found, the callback
+      // function passed to this.page.evaluate() is executed to extract the src
+      // attribute from each image element and return an array of image URLs.
       const nodes = await this.page.evaluate(() => {
 //        const images = document.querySelectorAll(`.content__img`);
-        const images = document.querySelectorAll(`.post-image`);
+        const images = document.querySelectorAll(`post-image`);
         return [].map.call(images, img => img.src);
       });
 
