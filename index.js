@@ -28,7 +28,7 @@ let DATA = {
 
 async function setWeatherInformation() {
   await fetch(
-    `https://api.openweathermap.org/data/2.5/weather?q=tokyo&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=metric`
+    `https://api.openweathermap.org/data/2.5/weather?q=madrid&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=metric`
   )
     .then(r => r.json())
     .then(r => {
@@ -38,18 +38,18 @@ async function setWeatherInformation() {
       DATA.sun_rise = new Date(r.sys.sunrise * 1000).toLocaleString('en-GB', {
         hour: '2-digit',
         minute: '2-digit',
-        timeZone: 'Asia/Tokyo',
+        timeZone: 'Europe/Madrid',
       });
       DATA.sun_set = new Date(r.sys.sunset * 1000).toLocaleString('en-GB', {
         hour: '2-digit',
         minute: '2-digit',
-        timeZone: 'Asia/Tokyo',
+        timeZone: 'Europe/Madrid',
       });
     });
 }
 
 async function setInstagramPosts() {
-  const instagramImages = await puppeteerService.getLatestInstagramPostsFromAccount('tokyotokyooldmeetsnew', 3);
+  const instagramImages = await puppeteerService.getLatestInstagramPostsFromAccount('visita_madrid', 3);
   DATA.img1 = instagramImages[0];
   DATA.img2 = instagramImages[1];
   DATA.img3 = instagramImages[2];
