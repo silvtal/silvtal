@@ -27,9 +27,9 @@
 
 - 📧 silvia.talavera@uam.es
 <!--TODO<p>🐦</p>-->
-- 📍Faculty of Science - Biology Building, C/ Darwin 2, 28049 Madrid-
+- 📍Faculty of Science - Biology Building, C/ Darwin 2, 28049 Madrid
 <!--- 📍Now on a stay at NTNU Trondheim 🇳🇴 (Kjemi 3, Gløshaugen) -->
-- 🗣️ You can talk to me in Spanish, English, Japanese and French. Learning Norwegian ☺️
+- 🗣️ You can talk to me in Spanish, English, Japanese and French. Learning Norwegian and Chinese ☺️
 
 
 <h3> Welcome to <img src="https://img.icons8.com/color/48/000000/spain-circular.png" width="13"/>Madrid!</h3>
