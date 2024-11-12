@@ -22,15 +22,13 @@
 
 - Software development and benchmarking 👩‍💻
 - Studying microbial assembly 🦠
-- With people all around the world! 🌎
-
 
 <h3>📫 How to reach me</h3>
 
 - 📧 silvia.talavera@uam.es
 <!--TODO<p>🐦</p>-->
-<!-- - 📍Faculty of Science - Biology Building, C/ Darwin 2, 28049 Madrid-->
-- 📍Now on a stay at NTNU Trondheim 🇳🇴 (Kjemi 3, Gløshaugen) 
+- 📍Faculty of Science - Biology Building, C/ Darwin 2, 28049 Madrid-
+<!--- 📍Now on a stay at NTNU Trondheim 🇳🇴 (Kjemi 3, Gløshaugen) -->
 - 🗣️ You can talk to me in Spanish, English, Japanese and French. Learning Norwegian ☺️
 
 
