@@ -1,41 +1,100 @@
 <h1>Welcome to my GitHub page! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
-<p>I'm Silvia, a PhD student at the <b>Autonomous University of Madrid, Spain</b> <img src="https://img.icons8.com/color/48/000000/spain-circular.png" width="13"/>. I'm currently working on my doctoral thesis on microbial community assembly at <a href="https://www.me-genomics.com/">Aguirre de Cárcer's lab</a></p>
+<p>I'm Silvia, a PhD candidate at the <b>Autonomous University of Madrid (UAM), Spain</b> 
+<img src="https://img.icons8.com/color/48/000000/spain-circular.png" width="13"/>.  
+I’m currently finishing my doctoral thesis in <b>computational and theoretical microbial ecology</b> at 
+<a href="https://www.me-genomics.com/">Aguirre de Cárcer's Lab</a>.</p>
 
-<h3>🔭 My work includes ...</h3>
+<h3>🔭 My work focuses on...</h3>
 
-- Programming protocols for <a href="https://github.com/Opentrons/opentrons">automating</a> microbial cultures 🌱
-- Analyzing microbial community networks 🕸️
-- Identifying and exploring functional core groups in a community 🔎
-- Studying pangenomes and metabolic modeling 🧪
+- Developing and maintaining <b>bioinformatic workflows</b> for microbial community analysis 🧬  
+- Integrating tools for <b>functional annotation</b> (e.g. eggNOG-mapper, FunctionInk) 🔎  
+- <b>Metabolic modeling</b> using FBA-based tools (ReFramed, CarveMe, Smetana, MISO) ⚙️  
+- Designing <b>reproducible pipelines</b> and simulation tools (dilgrowth package) 🧪  
 
-<h3>💻 Things I code with</h3>
+<h3>💻 Some programming languages and tools I have worked with</h3>
 <p>
-<img alt="R" src="https://img.shields.io/badge/-R-006dc8?style=flat-square&logo=R&logoColor=white" />
-<img alt="Python" src="https://img.shields.io/badge/-Python-e7c804?style=flat-square&logo=Python&logoColor=white" />
-<img alt="MATLAB" src="https://img.shields.io/badge/-MATLAB-ea6e00?style=flat-square&logo=M&logoColor=white" />
-<img alt="bash" src="https://img.shields.io/badge/-bash-1f2329?style=flat-square&logo=bash&logoColor=white" />
+<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white" />
+<img alt="bash" src="https://img.shields.io/badge/-Bash-1f2329?style=flat-square&logo=gnu-bash&logoColor=white" />
+<img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+<img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 <img alt="Perl" src="https://img.shields.io/badge/-Perl-00bcde?style=flat-square&logo=Perl&logoColor=white" />
+<img alt="MATLAB" src="https://img.shields.io/badge/-MATLAB-ea6e00?style=flat-square&logo=M&logoColor=white" />
 </p>
 
-<h3>👯 I’m looking to collaborate on ...</h3>
+<h3>⚙️ I have experience with...</h3>
 
-- Software development and benchmarking 👩‍💻
-- Studying microbial assembly 🦠
+- Studying microbial community assembly through identification of phylogenetic core groups, functional annotation, and metabolic modeling (FBA).
+- Managing HPC environments (CBM, CCC-UAM clusters) and workflow optimization using SLURM.
+- Programming for <a href="https://github.com/Opentrons/opentrons">automated lab platforms (Opentrons OT-2)</a>.
+- Collaborating with national and international research teams (Spain 🇪🇸, Norway 🇳🇴, Japan 🇯🇵).
+- Supporting researchers in metagenomic and metatranscriptomic data processing.
+
+<h3>👯 I’m looking to collaborate on...</h3>
+- Applying <b>bioinformatics and computational tools</b> to advance scientific research 🧬<br>
+- Development and integration of open-source bioinformatic tools 🔧
 
 <h3>📫 How to reach me</h3>
 
-- 📧 silvia.talavera@uam.es
-<!--TODO<p>🐦</p>-->
-- 📍Faculty of Science - Biology Building, C/ Darwin 2, 28049 Madrid
-<!--- 📍Now on a stay at NTNU Trondheim 🇳🇴 (Kjemi 3, Gløshaugen) -->
-- 🗣️ You can talk to me in Spanish, English, Japanese and French. Learning Norwegian and Chinese ☺️
+- 📧 <a href="mailto:stalaveramarcos@protonmail.com">stalaveramarcos@protonmail.com</a>  
+- 📍Faculty of Science - Biology Building, C/ Darwin 2, 28049 Madrid 
+- 🗣️ You can talk to me in <b>Spanish, English, French, or Japanese</b>, and I’m learning <b>Norwegian and Chinese</b>.
 
+---
+## 💻 Featured Projects and Repositories
 
-<h3> Welcome to <img src="https://img.icons8.com/color/48/000000/spain-circular.png" width="13"/>Madrid!</h3>
-<p><img width="200" src="https:&#x2F;&#x2F;cdn1.picuki.com&#x2F;hosted-by-instagram&#x2F;q&#x2F;0exhNuNYnjBcaS3SYdxKjf8F2vJ1Wg5SZ60STLepjSVmIR1vLHOapZA0mpCj4yRwKwVlASuRYzxn4I0tUF5WCz14NUPZSLSBTDlW56qZXefN1DJm85FkkbwxLnYbbXOr9sYkUQmYdSgIGaYDG7uo%7C%7CesJ+vPucjEHpi2VNrQT9zJBpY6uSKVKz8B13bHR1Bv9vdBhYgJE8VQpMBQ7odLUvj8ESLnzNskg6PI5RbMCg8kW%7C%7C+7piSS1X24ldihBGTOguYrVwr9T02XXejYH9GmkGq9sFRsEtwSIoCQ6k7R2spyYF7cr3Po17IH4fTcED3tJhjVPsdK+lCGQPy38mUxanjCD%7C%7CZK3UdITjaagJ8nJX4z+nxHOaLT9Da1uUFBfTffQQUbKDeCxNstNjI5YCdJK0Enz%7C%7CwPgIuTShTBQUWcMvDqIM4F5R6DFxvzxpiE&#x3D;.jpeg" /> <img width="200" src="https:&#x2F;&#x2F;cdn1.picuki.com&#x2F;hosted-by-instagram&#x2F;q&#x2F;0exhNuNYnjBcaS3SYdxKjf8F2vJ1Wg5SZ60STLepjSVmIR1vLHOapZA0mpCj4yRwKwVlASuRYzxn4YoqWFxRCT1yOkHeTr2BRDpV7KmaXOzN1Ddn9Jdpkbo1Kn0dYHSr8MYoVgmYdSgIGaYDG7uo%7C%7CesJ+vPucjEHpi2VNrQT9zJBpY6uSKVKz8B13bHR1Bv9vdBhYgJE8VQpMBQ7odLUvj8ESLnzNskg6PI5RbMCg8kW%7C%7C+7piSS1X24ldihBGTOguYrVwr9S1GXXejYH9GmkGpE2JxUckVqW4T1lk7R2kLOgEIAr3Po17IH4fTcED3tJhjVPsdK+lCGQPy38mUxanjCD%7C%7CZK3UM4qsLijE6GUB%7C%7C3qmXPiap33JuN2DGMINcPURlvyMOadJttrtJ12H89Zzknz%7C%7CwPgIuTShTdQUmQMvDqIM4F5R6DFxvzxpiE&#x3D;.jpeg" /> <img width="200" src="https:&#x2F;&#x2F;cdn1.picuki.com&#x2F;hosted-by-instagram&#x2F;q&#x2F;0exhNuNYnjBcaS3SYdxKjf8F2vJ1Wg5SZ60STLepjSVmIR1vLHOapZA0mpCj4yRwKwVlASuRYzxn54opVVpUCD17OkPeSbWATzhT6ayaV+2lvDNk9pZgnLo3KnIabXes9cElVGepNWwSDv5PHL%7C%7Clo7gX5vrtaSgEpjuSKrVCkGZTjse3TO9%7C%7C2pYf5%7C%7CHSv1izv9QpcmkazXgpdAd4+pvlpDk1VOCtIc17q7VySKNBicMCv6K91Sa8H2QkaHp%7C%7CECKet8XCkONFui3rSzY57zz2Fvh9EEIdvlqztEsLp94Ar9CuJbJ%7C%7C%7C%7CN8A%7C%7CKbDVlQ1GWlvqklPv6XslHPaSkGI%7C%7CmIUwGPRn+T8J7gprsigdcy8U%7C%7Cjl6CjZa5PTRI5jTC03UcndbFfoNt2EPeBuuK0YNPZHgmq7xCiJeJvg1kJmQjpP3mLfKrEnE6vFgpCq8UjDiznT+AVoxZjt.jpeg" /></p>
-<p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/visita_madrid/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @visita_madrid</a>!<br/>Currently, the weather is: <b> °C, <i></i></b></br>Today, the sun rises at <b></b> and sets at <b></b>.</p>
+<br>
 
+<img align="left" alt="R logo" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white" width="30"/>
+&nbsp;&nbsp;&nbsp;
+<b><a href="https://github.com/silvtal/dilgrowth">dilgrowth</a></b>
+<br>
+This package includes command line scripts and standalone R/c++ functions for simulating growth-dilution experiments. These simulations include neutral drift and optionally functional groups with d…
+<br clear="left"/>
+<br>
 
-------------
-<p align="center">This <i>README</i> file self-updates <b> every 3 hours</b></br>Last refresh: Wednesday, 6 September, 18:30 CEST<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Here's how it works</a></p>
+<img align="left" alt="JavaScript logo" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" width="30"/>
+&nbsp;&nbsp;&nbsp;
+<b><a href="https://github.com/silvtal/wordle-jp">wordle-jp</a></b>
+<br>
+Japanese adaptation of Josh Wardle's Wordle
+<br clear="left"/>
+<br>
+
+<img align="left" alt="R logo" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white" width="30"/>
+&nbsp;&nbsp;&nbsp;
+<b><a href="https://github.com/silvtal/correlation_graphs">correlation_graphs</a></b>
+<br>
+Based on Goyal et al.'s recently published method for inferring statistically significant correlations between OTUs (https://www.biorxiv.org/content/10.1101/2021.01.04.425224v1)
+<br clear="left"/>
+<br>
+
+<img align="left" alt="Python logo" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" width="30"/>
+&nbsp;&nbsp;&nbsp;
+<b><a href="https://github.com/silvtal/SBML_to_graph">SBML_to_graph</a></b>
+<br>
+A few rudimentary functions to generate metabolite graphs from SBML models. Uses ReFramed and one CarveMe function.
+<br clear="left"/>
+<br>
+
+<img align="left" alt="Python logo" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" width="30"/>
+&nbsp;&nbsp;&nbsp;
+<b><a href="https://github.com/silvtal/custom_ot2_utils">custom_ot2_utils</a></b>
+<br>
+Opentrons OT2 robot functions or custom labware definitions that we feel other people might find useful
+<br clear="left"/>
+<br>
+
+<img align="left" alt="HTML logo" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" width="30"/>
+&nbsp;&nbsp;&nbsp;
+<b><a href="https://github.com/silvtal/TFM">TFM</a></b>
+<br>
+Este repositorio recoge los scripts desarrollados para automatizar los análisis correspondientes al Trabajo de Fin de Máster "Modelización metabólica de comunidades microbianas estables crecidas co…
+<br clear="left"/>
+---
+
+Last update: October 2025<br>
+<a href="https://github.com/silvtal">Check out my repositories</a> 💡</p>
