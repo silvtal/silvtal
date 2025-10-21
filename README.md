@@ -52,15 +52,7 @@ I’m currently finishing my doctoral thesis in <b>computational and theoretical
 &nbsp;&nbsp;&nbsp;
 <b><a href="https://github.com/silvtal/dilgrowth">dilgrowth</a></b>
 <br>
-This package includes command line scripts and standalone R/c++ functions for simulating growth-dilution experiments. These simulations include neutral drift and optionally functional groups with d…
-<br clear="left"/>
-<br>
-
-<img align="left" alt="JavaScript logo" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" width="30"/>
-&nbsp;&nbsp;&nbsp;
-<b><a href="https://github.com/silvtal/wordle-jp">wordle-jp</a></b>
-<br>
-Japanese adaptation of Josh Wardle's Wordle
+This package includes command line scripts and standalone R/c++ functions for simulating growth-dilution experiments. These simulations include neutral drift and optionally functional groups with different group fitness. 
 <br clear="left"/>
 <br>
 
@@ -68,7 +60,7 @@ Japanese adaptation of Josh Wardle's Wordle
 &nbsp;&nbsp;&nbsp;
 <b><a href="https://github.com/silvtal/correlation_graphs">correlation_graphs</a></b>
 <br>
-Based on Goyal et al.'s recently published method for inferring statistically significant correlations between OTUs (https://www.biorxiv.org/content/10.1101/2021.01.04.425224v1)
+Based on Goyal et al.'s (2018) method for inferring statistically significant correlations between OTUs.
 <br clear="left"/>
 <br>
 
@@ -92,9 +84,18 @@ Opentrons OT2 robot functions or custom labware definitions that we feel other p
 &nbsp;&nbsp;&nbsp;
 <b><a href="https://github.com/silvtal/TFM">TFM</a></b>
 <br>
-Este repositorio recoge los scripts desarrollados para automatizar los análisis correspondientes al Trabajo de Fin de Máster "Modelización metabólica de comunidades microbianas estables crecidas co…
+Este repositorio recoge los scripts desarrollados para automatizar los análisis correspondientes al Trabajo de Fin de Máster "Modelización metabólica de comunidades microbianas estables crecidas con fuentes de carbono y energía únicas y simples" (Máster en Bioinformática y Biología Computacional, Universidad Autónoma de Madrid)
 <br clear="left"/>
+
+<img align="left" alt="JavaScript logo" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" width="30"/>
+&nbsp;&nbsp;&nbsp;
+<b><a href="https://github.com/silvtal/wordle-jp">wordle-jp</a></b>
+<br>
+Japanese adaptation of Josh Wardle's Wordle
+<br clear="left"/>
+<br>
+
+
 ---
 
 Last update: October 2025<br>
-<a href="https://github.com/silvtal">Check out my repositories</a> 💡</p>
