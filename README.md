@@ -1,11 +1,9 @@
 <h1>Welcome to my GitHub page! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
-<p>I'm Silvia, a PhD candidate at the <b>Autonomous University of Madrid (UAM), Spain</b> 
-<img src="https://img.icons8.com/color/48/000000/spain-circular.png" width="13"/>.  
-I’m currently finishing my doctoral thesis in <b>computational and theoretical microbial ecology</b> at 
-<a href="https://www.me-genomics.com/">Aguirre de Cárcer's Lab</a>.</p>
+<p>I'm Silvia, a PhD in Microbiology specializing in Bioinformatics and Microbial Ecology. I recently defended my thesis on microbial community assembly at the <b>Autonomous University of Madrid (UAM), Spain</b> 
+<img src="https://img.icons8.com/color/48/000000/spain-circular.png" width="13"/>.</p>
 
-<h3>🔭 My work focuses on...</h3>
+<h3>🔭 My work includes...</h3>
 
 - Developing and maintaining <b>bioinformatic workflows</b> for microbial community analysis 🧬  
 - Integrating tools for <b>functional annotation</b> (e.g. eggNOG-mapper, FunctionInk) 🔎  
@@ -38,10 +36,8 @@ I’m currently finishing my doctoral thesis in <b>computational and theoretical
 - Development and integration of open-source bioinformatic tools 🔧
 
 <h3>📫 How to reach me</h3>
-
 - 📧 <a href="mailto:stalaveramarcos@protonmail.com">stalaveramarcos@protonmail.com</a>  
-- 📍Faculty of Science - Biology Building, C/ Darwin 2, 28049 Madrid 
-- 🗣️ You can talk to me in <b>Spanish, English, French, or Japanese</b>, and I’m learning <b>Norwegian and Chinese</b>.
+- 🗣️ You can talk to me in <b>Spanish, English, French, or Japanese</b>, and I can speak a bit of <b>Norwegian</b>.
 
 ---
 ## 💻 Featured Projects and Repositories
@@ -98,4 +94,4 @@ Japanese adaptation of Josh Wardle's Wordle
 
 ---
 
-Last update: October 2025<br>
+Last update: February 2026<br>
